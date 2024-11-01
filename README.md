@@ -33,10 +33,6 @@ npx prisma migrate reset
 npm run start:dev
 ```
 
-## Submission
-
-Submit your solution by creating a pull request (PR) on this repository. Please **do not** merge your PR. Instead, return to your Hatchways assessment page to confirm your submission.
-
 ## API
 
 ### Workers
